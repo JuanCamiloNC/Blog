@@ -1,0 +1,31 @@
+Hola, esta es la historia de juan camilo navarro carrea
+El tiene 18 y es de Colombia
+le gusta programar y es estudiante de 
+ingenieria de sistemas 
+
+el reset + vercion + hard
+ borra todos las varciones posteriores a 
+ellas
+
+el checkout + vercion + nombre del documento 
+se puede mirar la varcion anterior sin eliminar
+nada 
+
+el checkout + master + nombre del documento
+vuelbe a la vercion originar :) 
+
+con el comando git branch + cualquier nombre 
+crea una nueva rama 
+
+el comando git + merge + cual quier rama, se fucionara con la rama que estas en el momentogit 
+
+Encaso de haber dos lineas iguales cunado haces merge
+seleccionas al guan de las dos obciones 
+
+Para poner el repocitorio remoto se usa el comando
+git remote add origin + la url del origen o de donde
+quieres subir el repocitorio
+
+fetch: traer cosas
+
+push: enviar cosas
