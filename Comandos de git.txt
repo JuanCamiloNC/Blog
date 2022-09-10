@@ -1,0 +1,26 @@
+Para subir un archivo a github se debe utilizar los comandos
+git branch -M main
+
+Luego
+
+git remote add origin + la url del repocitorio
+
+luego
+
+git push -u origin main
+
+ * encaso de erro 
+
+git pull origin main
+
+Luego
+
+git pull origin main --allow-unrelated-histories
+
+Luego 
+
+git push origin main
+
+---------------Comando para ver datos personales--------------------
+
+git config -l
