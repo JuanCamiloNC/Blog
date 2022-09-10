@@ -24,3 +24,23 @@ git push origin main
 ---------------Comando para ver datos personales--------------------
 
 git config -l
+
+---------comando para hacer una llave publica y privada---------------
+
+ssh-keygen -t rsa -b 4096 -C "navarrocorreajuancamilo@gmail.com"
+
+(las contraseñas se guardan en .ssh)
+
+Luego poner dar enter y luego poner contraseña espaceada
+
+Despues se revisa el servidor de llaves este prendido con el siguiente
+comando.
+
+eval $(ssh-agent -s)
+
+Esto dara un agent pid + number
+
+ahora ponemos la llave publica en el home del pc con el siguiente
+comando.
+
+ssh-add ~/.ssh/id_rsa
