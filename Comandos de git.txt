@@ -55,3 +55,19 @@ para verificar que todo este bien ponemos el siguiente comando
 git remote -v
 
 
+---Para traer la informacion del servidor de github y estar--
+------------------------actualizado--------------------------
+
+traesmos los datos con 
+
+git pull (este comando solo se hace una solaves en el pc)
+y damos en yes
+
+Luego ponemos 
+
+git pull origin main 
+
+para verse si estan actualizados los datos
+
+y Luego podemos haceer commit (Tambien se usa antes de hacer 
+commit)
