@@ -30,7 +30,7 @@ git config -l
 ssh-keygen -t rsa -b 4096 -C "navarrocorreajuancamilo@gmail.com"
 
 (las contraseñas se guardan en .ssh)
-
+gi
 Luego poner dar enter y luego poner contraseña espaceada
 
 Despues se revisa el servidor de llaves este prendido con el siguiente
