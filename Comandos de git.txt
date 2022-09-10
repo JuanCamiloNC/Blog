@@ -44,3 +44,14 @@ ahora ponemos la llave publica en el home del pc con el siguiente
 comando.
 
 ssh-add ~/.ssh/id_rsa
+
+Despues de haber pegado la llave ssh en git hub, nos vamos a la
+carpeta del repocitorio en nuestro pc y cambiamos la url ssh
+
+git remote set-url origin + la url de ssh del repocitorio.
+
+para verificar que todo este bien ponemos el siguiente comando
+
+git remote -v
+
+
