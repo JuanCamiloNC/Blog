@@ -92,6 +92,10 @@ los tag ponen que tipo de vercion es ejemplo v0.1
 
  git tag -a v0.1 -m "Actualizacion del archivo"
 
+para enviar los tag a github
+
+git push origin --tags
+
 para mirar todos los tags
 
 git show-ref --tags
