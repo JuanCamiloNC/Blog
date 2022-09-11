@@ -71,3 +71,27 @@ para verse si estan actualizados los datos
 
 y Luego podemos haceer commit (Tambien se usa antes de hacer 
 commit)
+
+-------------Comando para Mostrar las ramas----------------------
+
+git log --all --graph 
+
+o
+
+git log --all --graph --decorate --oneline
+
+-----------Comando para renombrar un comando-----------------------
+
+alias + (El nuevo nombre) + entre comillas el comando que quieras
+Ejemplo: alias ramas="git log --all --graph --decorate --oneline"
+
+
+--------------------Comando para hacer una tag----------------
+
+los tag ponen que tipo de vercion es ejemplo v0.1
+
+ git tag -a v0.1 -m "Actualizacion del archivo"
+
+para mirar todos los tags
+
+git show-ref --tags
