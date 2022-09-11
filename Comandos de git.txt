@@ -95,3 +95,15 @@ los tag ponen que tipo de vercion es ejemplo v0.1
 para mirar todos los tags
 
 git show-ref --tags
+o 
+git tag 
+
+Para eliminar los tags
+
+git tag -d + el Nombre del tag
+
+Pra eliminar los tags del github
+
+git tag origin :refs/tags/ + Nombre del tag
+
+
