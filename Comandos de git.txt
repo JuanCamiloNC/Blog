@@ -1,3 +1,7 @@
+-------------------cobfigurar los datos----------------------------
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+-----------------------------------------------------------------------------------
 Para subir un archivo a github se debe utilizar los comandos
 git branch -M main
 
