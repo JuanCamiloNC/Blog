@@ -34,3 +34,27 @@ footer{
     background-color: black;
     
 }
+.informacion{
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.informacion ol li{
+    list-style: none;
+    display: contents;
+}
+.informacion h1{
+    display: block;
+    text-align: right;
+    padding: 10px; ;
+}
+.informacion ol li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.informacion p{
+    padding: 10px;
+}
