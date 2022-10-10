@@ -131,3 +131,5 @@ tambien se pueden hacer git push enviar la informacion de nuestro repocitorio
 
 ----------------Para hacer un deployment--------------------
 simplemente se hacen cambios desde la pagina de git, le das editar archivo y listo
+
+para ignorar una archivo binario hacemos un archi para ignorar llamado: . git ignore
