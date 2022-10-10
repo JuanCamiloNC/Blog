@@ -128,3 +128,6 @@ hacemos git remote add upstream + la url del repocitorio clonado o la fuente nue
 
 luego se podrian hacer git pull de cualquier rama hacia el repocitorio clonado 
 tambien se pueden hacer git push enviar la informacion de nuestro repocitorio
+
+----------------Para hacer un deployment--------------------
+simplemente se hacen cambios desde la pagina de git, le das editar archivo y listo
