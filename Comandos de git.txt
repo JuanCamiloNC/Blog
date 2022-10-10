@@ -115,3 +115,16 @@ Pra eliminar los tags del github
 git tag origin :refs/tags/ + Nombre del tag
 
 
+---------------------------------Comando para clonar-------------------------------
+
+git clone + url del repocitorio 
+
+--------comando para una rama que traiga los cambios recientes del original---------
+
+Nota: el git upstream main es como el git origin main
+con git remote -v podemos ver push y fetch
+
+hacemos git remote add upstream + la url del repocitorio clonado o la fuente nueva
+
+luego se podrian hacer git pull de cualquier rama hacia el repocitorio clonado 
+tambien se pueden hacer git push enviar la informacion de nuestro repocitorio
