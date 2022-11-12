@@ -133,3 +133,8 @@ tambien se pueden hacer git push enviar la informacion de nuestro repocitorio
 simplemente se hacen cambios desde la pagina de git, le das editar archivo y listo
 
 para ignorar una archivo binario hacemos un archi para ignorar llamado: . git ignore
+
+---------------------------Nombre para el editor de readme-------------------------
+Pandao
+link: https://pandao.github.io/editor.md/en.html
+
