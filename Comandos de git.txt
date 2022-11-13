@@ -138,3 +138,15 @@ para ignorar una archivo binario hacemos un archi para ignorar llamado: . git ig
 Pandao
 link: https://pandao.github.io/editor.md/en.html
 
+--------------------------Comando rebase--------------------------
+Este comando espara hacerlo de manera local yaque puede ser muy peligroso
+en el remoto, puede confundir.
+
+Dos ramas main y experimento 
+
+desde experimento se trae toda la informacion de main a esta rama con este comando
+
+git rebase main 
+
+ahora la rama experimento esta actualiza con los cambios de main, pero no hay una 
+historia como tal
