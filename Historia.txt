@@ -40,3 +40,5 @@ git branch -b (nombre de la rama) origin/(nombre de la rama)
 master1
 
 master 2
+
+Hola esto es un ejemplo de como usar el rebase
