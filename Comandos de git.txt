@@ -150,3 +150,11 @@ git rebase main
 
 ahora la rama experimento esta actualiza con los cambios de main, pero no hay una 
 historia como tal
+
+
+
+----------------------eliminar una rama y subirla a github------------------
+
+eliminar: git branch -d  +  Nombre de la rama
+
+subirla a github: git push -u origin + el nombre de la rama
