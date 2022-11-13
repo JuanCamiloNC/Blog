@@ -38,3 +38,5 @@ git branch -a
 git branch -b (nombre de la rama) origin/(nombre de la rama) 
 
 master1
+
+master 2
