@@ -35,4 +35,7 @@ push: enviar cosas
 
 --------------------Traer una rama del remoto hacia el clon---------------------------------
 git branch -a
-git branch -b (nombre de la rama) origin/(nombre de la rama) experimento 1 experimento 2
+git branch -b (nombre de la rama) origin/(nombre de la rama)
+
+
+ experimento 1 experimento 2
