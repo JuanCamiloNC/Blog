@@ -37,4 +37,6 @@ push: enviar cosas
 git branch -a
 git branch -b (nombre de la rama) origin/(nombre de la rama) 
 
+experimento 1
+
 master1
