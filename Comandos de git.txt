@@ -158,3 +158,28 @@ historia como tal
 eliminar: git branch -d  +  Nombre de la rama
 
 subirla a github: git push -u origin + el nombre de la rama
+
+Comando git stash-----------------------------------------
+
+con este comando puedes navegar entre ramas, ya que guarda 
+temporalmente los cambios echos y vuelve al commit anterior 
+
+Comando git stash list-------------------------------------
+
+con este comando podemos ver la lista de los stash que emos guardado temporalmente 
+
+Comando git stash pop--------------------------------------
+
+Con este comando vuelven los cambios que isistes en la 
+rama donde ejecutastes anteriormente el stash 
+
+Comando stash branch-----------------------------------------
+
+Con este comando enviamos lo que guardamos anteriormente con
+y los ponemos en una nueva rama eje:
+git stash branch + NombreDeLaNuevaRama
+
+Comando git stash drop---------------------------------------
+
+Con este comando eliminamos el estas que esta en memoria 
+o que aviamos guardado.
