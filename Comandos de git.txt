@@ -175,7 +175,7 @@ rama donde ejecutastes anteriormente el stash
 
 Comando stash branch-----------------------------------------
 
-Con este comando enviamos lo que guardamos anteriormente
+Con este comando enviamos lo que guardamos anteriormente 
 y los ponemos en una nueva rama eje:
 git stash branch + NombreDeLaNuevaRama
 
@@ -183,3 +183,11 @@ Comando git stash drop---------------------------------------
 
 Con este comando eliminamos el estas que esta en memoria 
 o que aviamos guardado.
+
+comando git clean --dry-run----------------------------------
+
+mustra los archivos que se pueden eliminar 
+
+comando git clean -f ----------------------------------------
+
+Borra los archivos que se crearon accidentalmente o que por alguna razon deseas borrar(solo borra los archivos mas no las carpetas o folders, tampoco las cosas que se ignoran).
