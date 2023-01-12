@@ -175,7 +175,7 @@ rama donde ejecutastes anteriormente el stash
 
 Comando stash branch-----------------------------------------
 
-Con este comando enviamos lo que guardamos anteriormente con
+Con este comando enviamos lo que guardamos anteriormente
 y los ponemos en una nueva rama eje:
 git stash branch + NombreDeLaNuevaRama
 
