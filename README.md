@@ -21,3 +21,4 @@ En este blog aprenderas las maravillas de git sus comandos y ventajas al utiliza
 creditos:
 mipersona
 platzi
+fredi vega
