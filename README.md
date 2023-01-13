@@ -17,3 +17,7 @@ En este blog aprenderas las maravillas de git sus comandos y ventajas al utiliza
 
 ✅ ink del curso en plazi: **Por cierto este readme es un chiste no telotomes en serio** es el primero que hago XD.
 [curso de la clase para editar el readme](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/), [Curso de git ](https://platzi.com/cursos/git-github/), Gracias por ver 💚.
+
+creditos:
+mipersona
+platzi

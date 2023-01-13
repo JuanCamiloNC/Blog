@@ -190,4 +190,7 @@ mustra los archivos que se pueden eliminar
 
 comando git clean -f ----------------------------------------
 
-Borra los archivos que se crearon accidentalmente o que por alguna razon deseas borrar(solo borra los archivos mas no las carpetas o folders, tampoco las cosas que se ignoran).
+Borra los archivos que se crearon accidentalmente o que por
+alguna razon deseas borrar(solo borra los archivos mas no 
+las carpetas o folders, tampoco las cosas que se ignoran).
+
