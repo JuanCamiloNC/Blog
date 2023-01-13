@@ -194,3 +194,10 @@ Borra los archivos que se crearon accidentalmente o que por
 alguna razon deseas borrar(solo borra los archivos mas no 
 las carpetas o folders, tampoco las cosas que se ignoran).
 
+comando git cherry-pick -------------------------------------
+
+Se utilisa para traer un commit de una rama a otra, pero se
+considera una mala prectica, ya que, altera la historia. Eje:
+
+git cherry-pick + el id del commit (Para ver el id del commit
+podemos utilizar git log --oneline)
